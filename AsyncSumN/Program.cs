@@ -26,7 +26,7 @@ namespace AsyncSumN
                     Console.WriteLine("Введите другое число для перезагрузки с новыми параметрами");
                 }
                 else
-                    Console.WriteLine("It's not a number");
+                    Console.WriteLine("Это не число");
             }
         }
     }
